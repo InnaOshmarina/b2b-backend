@@ -1,0 +1,6 @@
+.idea
+/node_modules
+package-lock.json
+yarn-error.log
+/config/keys_dev.js
+/frontend
